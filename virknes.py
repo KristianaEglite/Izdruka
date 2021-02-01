@@ -17,7 +17,7 @@ garums = float(input("Uzraksti telpas garumu: "))
 augstums = float(input("Uzraksti telpas augstumu: "))
 tilpums = platums * garums * augstums
 print(f"Telpas tilpums ir {tilpums}")
-"""
+
 
 #Strings (rakstzīmju virknes)
 print("Sveiki!")
@@ -38,3 +38,16 @@ print(myString[8])#izdrukā 9. rakstzīmi
 print(myString[13])#izdrukā 14. rakstzīmi
 print(myString[-2])#izdrukā 14. rakstzīmi
 print(myString[-1])#izdrukā pēdējo rakstzīmi
+"""
+
+myString = "abcdefghijklmnoprstuvz"
+print(myString)
+print(myString[2])
+print(myString[2:])
+print(myString[:3])
+print(myString[3:6])
+print(myString[::]) #izdrukā visu
+print(myString[::2]) #izdrukā katru otro
+print(myString[::3])
+print(myString[2:7:2]) #izdrukā no trešās rakstzīmes līdz septītajai rakstzīmei, izdrukā katru otro
+print(myString[::-1]) #izdrukā otrā vizienā

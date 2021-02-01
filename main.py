@@ -1,1 +1,1 @@
-import virknes
+import vardnica
