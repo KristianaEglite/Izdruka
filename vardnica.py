@@ -43,4 +43,15 @@ print(new_dict)
 #vārdnīu medotes
 print(new_dict.keys()) #izdrukā atslēgas
 print(new_dict.values()) #izdruka vērtības
-print(new_dict.items()) #iizdrukā pārus
+print(new_dict.items()) #izdrukā pārus
+
+vertibu_list = list(new_dict.values()) #pārveido vērtības par list
+print(vertibu_list)
+
+print(new_dict.get('k1')) #get() izdot norādītās atslegas vertību
+print(new_dict.pop('k1')) #pop() izņem pēdējo elementu
+print(new_dict)
+new_dict.update({'k4':9}) #pievieno jaunu elementu pāri
+print(new_dict)
+new_dict.clear() #iztukšo/iztīra vārdīcu
+print(new_dict)
