@@ -1,4 +1,3 @@
-"""
 vards = input("Kā tevi sauc? ")
 print(f"Tavs vārds ir {vards}")
 
@@ -38,7 +37,6 @@ print(myString[8])#izdrukā 9. rakstzīmi
 print(myString[13])#izdrukā 14. rakstzīmi
 print(myString[-2])#izdrukā 14. rakstzīmi
 print(myString[-1])#izdrukā pēdējo rakstzīmi
-"""
 
 myString = "abcdefghijklmnoprstuvz"
 print(myString)

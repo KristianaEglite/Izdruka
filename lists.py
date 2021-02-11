@@ -1,4 +1,3 @@
-"""
 #lists jeb saraksti
 [1, 2, 3, [4, 5]]
 myList = ["teksts", 100, 12.8, "teksts"]
@@ -55,7 +54,6 @@ nested_list = [8, 6, [5, 7]]
 print(len(nested_list))
 print(nested_list[1])
 print(nested_list[2][1]) #izdrukā ligzsaraksta elementu
-"""
 
 #piemēri
 augli = ["ābols", "banāns", "gurķis"]
@@ -73,5 +71,5 @@ print(augli)
 augli.pop(1)
 print(augli)
 
-#izdrukāt pilnā teikumā, cik auļu ir sarakstā
+#izdrukāt pilnā teikumā, cik augļu ir sarakstā
 print(f"Šajā sarakstā ir {len(augli)} augļi.")
