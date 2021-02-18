@@ -1,1 +1,1 @@
-import zarosanas
+import while_cikls
