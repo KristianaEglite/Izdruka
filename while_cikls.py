@@ -24,6 +24,8 @@ while True:
         break
     i += 2
 
+
+#studas uzdevums 2
 augstums = int(input("Kāds būs stāvu skaits? "))
 i = 0
 while (i < augstums):

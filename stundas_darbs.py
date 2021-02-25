@@ -1,4 +1,3 @@
-"""
 #pirmais uzdevums
 a = 15
 b = 2.5
@@ -34,7 +33,7 @@ elif (gradi >= 35) and (gradi <= 37):
     print("Viss kārtībā")
 else:
     print("Iespējams drudzis")
-"""
+
 #stundas uzdevums
 atr = ""
 if (atr == "banka"):
