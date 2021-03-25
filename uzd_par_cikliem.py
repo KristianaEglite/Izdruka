@@ -1,4 +1,3 @@
-"""
 #uzd1
 #lietotājs ievada divus skaitļus. Izdrukāt visus skaitļus, kas atrodas pa vidu/izdrukā visus intervāla skaitļus. Abus galapunktus ieskaitot.
 
@@ -14,7 +13,7 @@ faktorials = 1
 for i in range(1,a+1):
     faktorials = faktorials * i
 print(f"Skaitļa {a} faktoriāls ir {faktorials}")
-"""
+
 #uzd3
 #no lietotāja ievadīta intervāla, izvadi visus veselos skaitļus, kas dalās ar konkrētu skaitli(norāda lietotājs)
 a = int(input("Ievadi sākuma skaitļus: "))

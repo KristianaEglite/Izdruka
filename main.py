@@ -1,1 +1,1 @@
-import uzd_par_cikliem
+import otrais_grupu_darbs

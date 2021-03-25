@@ -1,0 +1,1 @@
+#Nosacījums: atbildi uz jautājumu -  
