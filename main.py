@@ -1,1 +1,1 @@
-import otrais_grupu_darbs
+import funkc_return
